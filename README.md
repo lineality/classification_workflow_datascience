@@ -1,8 +1,8 @@
 #### classification_workflow_datascience
-Understanding Classification Workflow in Data Science
+# Understanding Classification Workflow in Data Science
 A Non-Technical Overview of Traditional Known-Class
 & Future "Classification" Modeling
-2025.05-09 G.G.Ashbrook
+##### 2025.05-09 G.G.Ashbrook
 
 ## Contents:
 1. Navigating Jargon & Pragmatic Definitions of 'AI'
